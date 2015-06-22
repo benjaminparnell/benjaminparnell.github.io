@@ -10,7 +10,7 @@ highlighter: pygments
 paginate: 20
 baseurl: /
 domain_name: 'http://benjaminparnell.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-64405718-1'
 disqus_shortname: 'benparnellblog'
 
 # Details for the RSS feed generator
